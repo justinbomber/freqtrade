@@ -84,9 +84,9 @@
         "password": "justin"
     },
     "bot_name": "justinbot",
-    "user_data_dir": "/home/justin/freqtrade/freqtrade/user_data",
-    "strategy_path": "/home/justin/freqtrade/freqtrade/user_data",
-    "db_url": "sqlite:////home/justin/freqtrade/freqtrade/user_data/trades_dryrun.sqlite",
+    "user_data_dir": "/home/justin/justin_freq/freqtrade/user_data",
+    "strategy_path": "/home/justin/justin_freq/freqtrade/user_data",
+    "db_url": "sqlite:////home/justin/justin_freq/freqtrade/user_data/trades_dryrun.sqlite",
     "initial_state": "running",
     "strategy": "justinstrategy",
     "force_entry_enable": false,
